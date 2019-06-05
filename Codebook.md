@@ -1,7 +1,9 @@
-#Code Book
+# Code book
+
 The final data consists of 180 rows, 88 columns.
 
-#In order to get the final data i have done the following.
+
+# In order to get the final data i have done the following.
 
 1 Merges the training and the test sets to create one data set.
 
@@ -13,7 +15,9 @@ The final data consists of 180 rows, 88 columns.
 
 5 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-#Variables Description
+
+# Variables Description
+
 
 Data read from project data files. For description of each data files, refer to README in the project folder.
 
